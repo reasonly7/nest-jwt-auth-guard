@@ -1,3 +1,3 @@
-# nest-scaffold
+# nest-jwt-auth-guard
 
-A nest project template I usually use（我平时使用的 NestJS 项目模版）
+A guard for validating the access token（一个用于验证 access_token 的守卫）
